@@ -40,7 +40,7 @@ LLMs excel in natural language understanding but often generate inaccurate respo
 - Reduced retrieval costs by *70%* and improved response speed by *3x*, maintaining historical accuracy in AI-generated responses.
 - Enhanced knowledge retrieval, enabling seamless user interactions with the AI-powered historical figure.
 
-📸 ![Marius AI](/assets/img/Simon_Marius_Photo.jpeg)
+📸 ![Marius AI](/assets/img/Simon Marius Photo.jpeg)
 
 ---
 
@@ -54,7 +54,7 @@ LLMs excel in natural language understanding but often generate inaccurate respo
 - Developed *Python-LabVIEW architecture* to collect & process real-time energy data using Modbus sensors.
 - Enhanced visualization with *Grafana*, improving issue detection and system optimization.
 
-📸 ![Energy Monitoring](/assets/img/Energy_Monitoring_System.jpg) ![Battery Storage](/assets/img/battery_Storage.jpeg) ![Charging Station](/assets/img/Charging_Station.jpeg)
+📸 ![Energy Monitoring](/assets/img/Energy Monitoring System.jpg) ![Battery Storage](/assets/img/battery Storage.jpeg) ![Charging Station](/assets/img/Chatging Station.jpeg)
   
 ---
 
@@ -76,7 +76,7 @@ LLMs excel in natural language understanding but often generate inaccurate respo
 1. *Magenta: Metrics and Evaluation Framework for Generative Agents based on LLMs* (IHSI Conference - 2024)  
    📖 [Paper Link](https://openaccess.cms-conferences.org/publications/book/978-1-958651-95-7/article/978-1-958651-95-7_14)  
 2. *Evaluierung von LLMs und Autonomen Agenten* (Ansbacher Kaleidoskop - 2024)  
-   📸 ![Publication](/assets/img/Untitled_design.png)
+   📸 ![Publication](/assets/img/Untitled design.png)
 
 ---
 
