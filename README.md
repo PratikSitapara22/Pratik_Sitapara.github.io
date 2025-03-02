@@ -3,7 +3,7 @@ Welcome to my portfolio! I'm Pratik Sitapara, an AI Engineer passionate about br
 ---
 
 ## Education  
-- *Master of Engineering* in Smart Energy Systems, Hochschule Ansbach, Germany (Expected 01/2025)  
+- *Master of Engineering* in Smart Energy Systems, Hochschule Ansbach, Germany (01/2025)  
 - *Bachelor of Engineering* in Automobile, Gujarat Technological University, India (08/2020)  
 
 ---
@@ -12,10 +12,8 @@ Welcome to my portfolio! I'm Pratik Sitapara, an AI Engineer passionate about br
 ### *Programming & Tools*  
 Python, Docker, GitHub, VS Code, LabVIEW  
 
-### *AI & DevOps*  
-- Open-source Models, Custom Knowledge Integration, NLP, Deep Learning, LLM Tuning & Deployment  
-- Retrieval-Augmented Generation (RAG), Autonomous Agents, LangChain, LLamaIndex, Streamlit, ElectronJS  
-- LLMOps, CI/CD, Monitoring & Tracing, vLLM, LiteLLM, FastAPI, Flask  
+### *AI & DevOps*
+Open-source Models, Custom Knowledge Integration, NLP, Deep Learning, LLM Tuning & Deployment, Retrieval-Augmented Generation (RAG), Autonomous Agents, LangChain, LLamaIndex, Streamlit, ElectronJS , LLMOps, CI/CD, Monitoring & Tracing, vLLM, LiteLLM, FastAPI, Flask  
 
 ### *OCR & Document Processing*  
 Email Parsing, Document Processing, Data Extraction, Chunking  
@@ -27,11 +25,18 @@ Vector Databases (FAISS, Pinecone), MongoDB, InfluxDB, SQL, AWS, Azure
 ### *Master Thesis - Evaluation & Monitoring of RAG for Enterprise Applications* (Grade: 1.3 | Duration: 6 months) 
 LLMs excel in natural language understanding but often generate inaccurate responses. RAG enhances factual correctness by integrating retrieved knowledge. This study examines evaluation methodologies for RAG, incorporating traditional retrieval metrics (MRR, NDCG, Hit Rate) and generative assessment (reference-based & reference-free metrics). The research highlights how specialized fine-tuned models can serve as reliable evaluation tools, offering practical insights for optimizing enterprise RAG implementations.
 
-📸 *Visuals:*  (Structured in a gallery format for clarity)  
-![Evaluation Framework](/assets/img/Index-Ret-Gen (1).png)  
-![Metric Comparisons](/assets/img/EXP-1-MRR.png) ![Time Analysis](/assets/img/EXP-1-Time.png)  
-![Answer Relevance](/assets/img/AnswerRelevancy.png) ![Faithfulness](/assets/img/Faithfulness.png)  
-![Correlation Analysis](/assets/img/correlation.png)  
+<p align="center">
+  <img src="/assets/img/EXP-1-MRR.png" width="40%" alt="Metric Comparisons">
+  <img src="assets/img/EXP-1-NDCG.png" width="40%" alt="Time Analysis">
+</p>
+<p align="center">
+  <img src="/assets/img/AnswerRelevancy.png" width="40%" alt="Answer Relevance">
+  <img src="/assets/img/Faithfulness.png" width="40%" alt="Faithfulness">
+</p>
+<p align="center">
+  <img src="/assets/img/correlation.png" width="60%" alt="Correlation Analysis">
+</p>
+
 
 ---
 
@@ -40,7 +45,9 @@ LLMs excel in natural language understanding but often generate inaccurate respo
 - Reduced retrieval costs by *70%* and improved response speed by *3x*, maintaining historical accuracy in AI-generated responses.
 - Enhanced knowledge retrieval, enabling seamless user interactions with the AI-powered historical figure.
 
-📸 ![Marius AI](/assets/img/Simon Marius Photo.jpeg)
+<p align="center">
+  <img src="/assets/img/Simon Marius Photo.jpeg" width="60%" alt="Correlation Analysis">
+</p>
 
 ---
 
@@ -54,7 +61,11 @@ LLMs excel in natural language understanding but often generate inaccurate respo
 - Developed *Python-LabVIEW architecture* to collect & process real-time energy data using Modbus sensors.
 - Enhanced visualization with *Grafana*, improving issue detection and system optimization.
 
-📸 ![Energy Monitoring](/assets/img/Energy Monitoring System.jpg) ![Battery Storage](/assets/img/battery Storage.jpeg) ![Charging Station](/assets/img/Chatging Station.jpeg)
+<p align="center">
+  <img src="/assets/img/Energy Monitoring System.jpg" width="30%" alt="Energy Monitoring">
+  <img src="/assets/img/battery Storage.jpeg" width="30%" alt="Battery Storage">
+  <img src="/assets/img/Chatging Station.jpeg" width="30%" alt="Charging Station">
+</p>
   
 ---
 
@@ -76,7 +87,10 @@ LLMs excel in natural language understanding but often generate inaccurate respo
 1. *Magenta: Metrics and Evaluation Framework for Generative Agents based on LLMs* (IHSI Conference - 2024)  
    📖 [Paper Link](https://openaccess.cms-conferences.org/publications/book/978-1-958651-95-7/article/978-1-958651-95-7_14)  
 2. *Evaluierung von LLMs und Autonomen Agenten* (Ansbacher Kaleidoskop - 2024)  
-   📸 ![Publication](/assets/img/Untitled design.png)
+
+<p align="center">
+  <img src="/assets/img/Untitled design.png" width="40%" alt="Correlation Analysis">
+</p>
 
 ---
 
