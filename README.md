@@ -8,19 +8,6 @@ Welcome to my portfolio! I'm Pratik Sitapara, an AI Engineer passionate about br
 
 ---
 
-## Technical Skills  
-### *Programming & Tools*  
-Python, Docker, GitHub, VS Code, LabVIEW  
-
-### *AI & DevOps*
-Open-source Models, Custom Knowledge Integration, NLP, Deep Learning, LLM Tuning & Deployment, Retrieval-Augmented Generation (RAG), Autonomous Agents, LangChain, LLamaIndex, Streamlit, ElectronJS , LLMOps, CI/CD, Monitoring & Tracing, vLLM, LiteLLM, FastAPI, Flask  
-
-### *OCR & Document Processing*  
-Email Parsing, Document Processing, Data Extraction, Chunking  
-
-### *Database & Cloud*  
-Vector Databases (FAISS, Pinecone), MongoDB, InfluxDB, SQL, AWS, Azure  
-
 ## Work & Projects  
 ### *Master Thesis - Evaluation & Monitoring of RAG for Enterprise Applications* (Grade: 1.3 | Duration: 6 months) 
 LLMs excel in natural language understanding but often generate inaccurate responses. RAG enhances factual correctness by integrating retrieved knowledge. This study examines evaluation methodologies for RAG, incorporating traditional retrieval metrics (MRR, NDCG, Hit Rate) and generative assessment (reference-based & reference-free metrics). The research highlights how specialized fine-tuned models can serve as reliable evaluation tools, offering practical insights for optimizing enterprise RAG implementations.
@@ -95,6 +82,14 @@ LLMs excel in natural language understanding but often generate inaccurate respo
 
 ---
 
+## Technical Skills  
+- *Programming & Tools*: Python, Docker, GitHub, VS Code, LabVIEW  
+- *AI & DevOps*: Open-source Models, Custom Knowledge Integration, NLP, Deep Learning, LLM Tuning & Deployment, Retrieval-Augmented Generation (RAG), Autonomous Agents, LangChain, LLamaIndex, Streamlit, ElectronJS , LLMOps, CI/CD, Monitoring & Tracing, vLLM, LiteLLM, FastAPI, Flask  
+- *OCR & Document Processing*:  Email Parsing, Document Processing, Data Extraction, Chunking
+- *Database & Cloud*: Vector Databases (FAISS, Pinecone), MongoDB, InfluxDB, SQL, AWS, Azure
+
+---
+
 ## Languages  
 - *English*: Business Fluent  
 - *German*: Basic Communication (Learning B1)  
@@ -108,7 +103,7 @@ LLMs excel in natural language understanding but often generate inaccurate respo
 - 📖 Reading  
 - 📈 Stock Market Investment  
 - 🚴‍♂ Cycling  
-- ✈ Traveling (When bank balance allows!)  
+- ✈ Traveling
 
 ---
 
