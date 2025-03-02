@@ -52,7 +52,8 @@ LLMs excel in natural language understanding but often generate inaccurate respo
 ---
 
 ### *Agent-Based Summarization Tool* (Duration: 3 months)  
-- Developed the foundational Agent-based tool for a team working at Brandad, automating podcast transcript generation and summarization. Implemented an iterative feedback loop to ensure summaries achieved a 90% accuracy target, minimizing hallucination and delivering reliable, concise summaries that significantly enhanced content quality for the Brandad team. 
+- Developed the foundational Agent-based tool for a team working at Brandad, automating podcast transcript generation and summarization.
+- Implemented an iterative feedback loop to ensure summaries achieved a 90% accuracy target, minimizing hallucination and delivering reliable, concise summaries that significantly enhanced content quality for the Brandad team. 
 
 ---
 
