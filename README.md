@@ -1,4 +1,6 @@
-Welcome to my portfolio! I'm Pratik Sitapara, an AI Engineer passionate about bridging cutting-edge AI research with real-world applications. With two years of experience in developing and fine-tuning AI architectures, I specialize in Retrieval-Augmented Generation (RAG), Large Language Model (LLM) tuning, and AI deployment for enterprise solutions. Beyond coding, I thrive on solving complex challenges, iterating on solutions, and optimizing performance for impactful AI-driven systems. Additionally, I bring a structured working style, strong collaboration skills, and a commitment to clear and effective documentation, ensuring seamless communication with clients and teams.
+Welcome to my portfolio! I'm Pratik Sitapara, an AI Engineer passionate about transforming cutting-edge AI research into real-world applications. With two years of experience in AI architecture, I specialize in Retrieval-Augmented Generation (RAG), Large Language Model (LLM) tuning, and enterprise AI deployments. I thrive on solving complex challenges, optimizing performance, and ensuring AI solutions are efficient, scalable, and impactful. My structured approach, strong collaboration skills, and commitment to clear documentation enable seamless communication with teams and clients.
+
+🚀 I am currently open to new opportunities where I can contribute my expertise in AI-driven solutions. Feel free to explore my work and connect—I look forward to collaborating and innovating together!
 
 ---
 
@@ -108,13 +110,11 @@ LLMs excel in natural language understanding but often generate inaccurate respo
 ---
 
 ## Connect with Me  
-🚀 Looking for new opportunities to build AI-driven solutions that shape the future. Feel free to explore my work or connect for collaborations!
-
 📩 *Email*: [ppsitaparadl@gmail.com](mailto:ppsitaparadl@gmail.com)  
-💻 *GitHub*: [PratikSitapara](https://github.com/PratikSitapara)  
+💻 *GitHub*: [PratikSitapara](https://github.com/PratikSitapara22)  
 🔗 *LinkedIn*: [Pratik Sitapara](https://www.linkedin.com/in/pratik-sitapara-485900162/)  
 📸 *Instagram*: [@sitapara_pratik](https://www.instagram.com/sitapara_pratik/)  
 
 ---
 
-Thank you for visiting my personal portfolio website. Hope to Get In Touch Soon!
+✨ Thank you for visiting my portfolio! I look forward to connecting and exploring new opportunities together. 🚀
