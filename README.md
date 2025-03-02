@@ -26,15 +26,15 @@ Vector Databases (FAISS, Pinecone), MongoDB, InfluxDB, SQL, AWS, Azure
 LLMs excel in natural language understanding but often generate inaccurate responses. RAG enhances factual correctness by integrating retrieved knowledge. This study examines evaluation methodologies for RAG, incorporating traditional retrieval metrics (MRR, NDCG, Hit Rate) and generative assessment (reference-based & reference-free metrics). The research highlights how specialized fine-tuned models can serve as reliable evaluation tools, offering practical insights for optimizing enterprise RAG implementations.
 
 <p align="center">
-  <img src="assets/img/EXP-1-MRR.png" width="60%" alt="Metric Comparisons">
-  <img src="assets/img/EXP-1-NDCG.png" width="60%" alt="Time Analysis">
+  <img src="assets/img/EXP-1-MRR.png" width="40%" alt="Metric Comparisons">
+  <img src="assets/img/EXP-1-NDCG.png" width="40%" alt="Time Analysis">
 </p>
 <p align="center">
-  <img src="assets/img/AnswerRelevancy.png" width="60%" alt="Answer Relevance">
-  <img src="assets/img/Faithfulness.png" width="60%" alt="Faithfulness">
+  <img src="assets/img/AnswerRelevancy.png" width="40%" alt="Answer Relevance">
+  <img src="assets/img/Faithfulness.png" width="40%" alt="Faithfulness">
 </p>
 <p align="center">
-  <img src="assets/img/correlation.png" width="60%" alt="Correlation Analysis">
+  <img src="assets/img/correlation.png" width="50%" alt="Correlation Analysis">
 </p>
 
 
@@ -46,7 +46,7 @@ LLMs excel in natural language understanding but often generate inaccurate respo
 - Enhanced knowledge retrieval, enabling seamless user interactions with the AI-powered historical figure.
 
 <p align="center">
-  <img src="assets/img/Simon Marius Photo.jpeg" width="60%" alt="Correlation Analysis">
+  <img src="assets/img/Simon Marius Photo.jpeg" width="50%" alt="Correlation Analysis">
 </p>
 
 ---
@@ -63,9 +63,9 @@ LLMs excel in natural language understanding but often generate inaccurate respo
 - Enhanced visualization with *Grafana*, improving issue detection and system optimization.
 
 <p align="center">
-  <img src="assets/img/Energy Monitoring System.jpg" width="60%" alt="Energy Monitoring">
-  <img src="assets/img/battery Storage.jpeg" width="60%" alt="Battery Storage">
-  <img src="assets/img/Chatging Station.jpeg" width="60%" alt="Charging Station">
+  <img src="assets/img/Energy Monitoring System.jpg" width="30%" alt="Energy Monitoring">
+  <img src="assets/img/battery Storage.jpeg" width="30%" alt="Battery Storage">
+  <img src="assets/img/Chatging Station.jpeg" width="30%" alt="Charging Station">
 </p>
   
 ---
@@ -90,7 +90,7 @@ LLMs excel in natural language understanding but often generate inaccurate respo
 2. *Evaluierung von LLMs und Autonomen Agenten* (Ansbacher Kaleidoskop - 2024)  
 
 <p align="center">
-  <img src="assets/img/Untitled design.png" width="60%" alt="Correlation Analysis">
+  <img src="assets/img/Untitled design.png" width="40%" alt="Correlation Analysis">
 </p>
 
 ---
