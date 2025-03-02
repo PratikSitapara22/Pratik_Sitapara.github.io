@@ -1,4 +1,4 @@
-Welcome to my portfolio! I'm Pratik Sitapara, an AI Engineer passionate about transforming cutting-edge AI research into real-world applications. With two years of experience in AI architecture, I specialize in Retrieval-Augmented Generation (RAG), Large Language Model (LLM) tuning, and enterprise AI deployments. I thrive on solving complex challenges, optimizing performance, and ensuring AI solutions are efficient, scalable, and impactful. My structured approach, strong collaboration skills, and commitment to clear documentation enable seamless communication with teams and clients.
+Welcome to my portfolio! I'm Pratik Sitapara, an AI Engineer passionate about transforming cutting-edge AI research into real-world applications. With two years of experience, I specialize in Retrieval-Augmented Generation (RAG), Large Language Model (LLM) tuning, and enterprise AI deployments. I thrive on solving complex challenges, optimizing performance, and ensuring AI solutions are efficient, scalable, and impactful. My structured approach, strong collaboration skills, and commitment to clear documentation enable seamless communication with teams and clients.
 
 🚀 I am currently open to new opportunities where I can contribute my expertise in AI-driven solutions. Feel free to explore my work and connect—I look forward to collaborating and innovating together!
 
@@ -11,7 +11,7 @@ Welcome to my portfolio! I'm Pratik Sitapara, an AI Engineer passionate about tr
 ---
 
 ## Work & Projects  
-### *Master Thesis - Evaluation & Monitoring of RAG for Enterprise Applications* (Grade: 1.3 | Duration: 6 months) 
+### *Master Thesis - Evaluating and Monitoring Retrieval-Augmented Generation (RAG) for Enhanced Performance in Commercial Applications* (Grade: 1.3 | Duration: 6 months) 
 LLMs excel in natural language understanding but often generate inaccurate responses. RAG enhances factual correctness by integrating retrieved knowledge. This study examines evaluation methodologies for RAG, incorporating traditional retrieval metrics (MRR, NDCG, Hit Rate) and generative assessment (reference-based & reference-free metrics). The research highlights how specialized fine-tuned models can serve as reliable evaluation tools, offering practical insights for optimizing enterprise RAG implementations.
 
 <p align="center">
