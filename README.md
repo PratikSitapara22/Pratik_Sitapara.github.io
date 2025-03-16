@@ -75,11 +75,11 @@ LLMs excel in natural language understanding but often generate inaccurate respo
 
 ### *Minor Projects*
 1. *Dynamic Energy Market Simulation*
-Engaged in the "EnergyNext" simulation game, showcasing strategic decision-making in energy production, trade, and marketing. Successfully navigated challenges, making critical choices like plant operations influenced by dynamic political impacts. Gained insights into corporate responsibility and market dynamics, applying theoretical knowledge to real-world scenarios. Focused on acquiring customers, strategically supplying energy, and optimizing profitability while ensuring grid stability.
+- Engaged in the "EnergyNext" simulation game, showcasing strategic decision-making in energy production, trade, and marketing. Successfully navigated challenges, making critical choices like plant operations influenced by dynamic political impacts. Gained insights into corporate responsibility and market dynamics, applying theoretical knowledge to real-world scenarios. Focused on acquiring customers, strategically supplying energy, and optimizing profitability while ensuring grid stability.
 2. *Intelligent Energy Distribution System for a Residence*
-Model and fine-tune the energy needs of a standard household system to ensure that the entire electricity and heat demand of the district can be fulfilled solely through the utilization of photovoltaic (PV) sources. Achieve this without the necessity of purchasing additional electricity or heat, leveraging the capabilities of myRIO-1900 and LABVIEW Programming for simulation and optimization.
+- Model and fine-tune the energy needs of a standard household system to ensure that the entire electricity and heat demand of the district can be fulfilled solely through the utilization of photovoltaic (PV) sources. Achieve this without the necessity of purchasing additional electricity or heat, leveraging the capabilities of myRIO-1900 and LABVIEW Programming for simulation and optimization.
 3. *Exploring Power Plant Site Selection through Eurosat Image Classification: A Deep Learning Project*
-Created a project to classify ten distinct kinds of geographical Images using CNN and then compared it with the VGG-16 model for better accuracy to predict which powerplant is suitable for the particular location.
+- Created a project to classify ten distinct kinds of geographical Images using CNN and then compared it with the VGG-16 model for better accuracy to predict which powerplant is suitable for the particular location.
 
 ---
 
