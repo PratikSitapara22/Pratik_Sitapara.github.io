@@ -86,7 +86,7 @@ LLMs excel in natural language understanding but often generate inaccurate respo
 
 ## Technical Skills  
 - *Programming & Tools*: Python, Docker, GitHub, VS Code, LabVIEW, AI-driven energy optimization, Time-series energy data analysis   
-- *AI & DevOps*: Open-source Models, Custom Knowledge Integration, NLP, Deep Learning, LLM Tuning & Deployment, Retrieval-Augmented Generation (RAG), Autonomous Agents, LangChain, LLamaIndex, Streamlit, ElectronJS , LLMOps, CI/CD, Monitoring & Tracing, vLLM, LiteLLM, FastAPI, Flask, Grafana,   
+- *AI & DevOps*: Open-source Models, Custom Knowledge Integration, NLP, Deep Learning, LLM Tuning & Deployment, Retrieval-Augmented Generation (RAG), Autonomous Agents, LangChain, LLamaIndex, Streamlit, ElectronJS , LLMOps, CI/CD, Monitoring & Tracing, vLLM, LiteLLM, FastAPI, Flask, Grafana
 - *OCR & Document Processing*:  Email Parsing, Document Processing, Data Extraction, Chunking
 - *Database & Cloud*: Vector Databases (FAISS, Pinecone), MongoDB, InfluxDB, SQL, AWS, Azure
 - *IoT*: myRIO-1900, Modbus
