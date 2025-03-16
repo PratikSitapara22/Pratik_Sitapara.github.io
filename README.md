@@ -1,6 +1,6 @@
-Welcome to my portfolio! I'm Pratik Sitapara, an AI Engineer passionate about transforming cutting-edge AI research into real-world applications. With two years of experience, I specialize in Retrieval-Augmented Generation (RAG), Large Language Model (LLM) tuning, and enterprise AI deployments. I thrive on solving complex challenges, optimizing performance, and ensuring AI solutions are efficient, scalable, and impactful. My structured approach, strong collaboration skills, and commitment to clear documentation enable seamless communication with teams and clients.
+Welcome to my portfolio! I'm Pratik Sitapara, an Engineer passionate about solving real-life problems with AI and developing real-world applications. With a strong background in Smart Energy Systems and two years of experience in AI, I have developed skills in Python Programming, IoT, and Generative AI Technologies. I have a deep interest in research work and thrive on solving complex challenges, optimizing performance, and ensuring solutions are efficient, scalable, and impactful. My structured work approach, strong collaboration skills, and commitment to clear documentation enable seamless communication with teams and clients.
 
-🚀 I am currently open to new opportunities where I can contribute my expertise in AI-driven solutions. Feel free to explore my work and connect—I look forward to collaborating and innovating together!
+🚀 I am currently open to new opportunities where I can contribute my knowledge in AI-driven solutions and Energy. Feel free to explore my work and connect—I look forward to collaborating and innovating together!
 
 ---
 
@@ -46,7 +46,7 @@ LLMs excel in natural language understanding but often generate inaccurate respo
 
 ---
 
-### *Intelligent Sector Coupling - Energy Data Monitoring Tool* (Duration: 4 months)  
+### *Intelligent Sector Coupling - Energy Data Monitoring Tool* (Duration: 6 months)  
 - Engineered a *wireless energy monitoring system*, integrating energy meters for battery storage & EV charging.
 - Developed *Python-LabVIEW architecture* to collect & process real-time energy data using Modbus sensors.
 - Enhanced visualization with *Grafana*, improving issue detection and system optimization.
@@ -59,7 +59,7 @@ LLMs excel in natural language understanding but often generate inaccurate respo
   
 ---
 
-### *AI-Powered Invoice Extraction Tool* (Duration: 3 Days)  
+### *AI-Powered Invoice Extraction Tool*   
 - Automated email-based invoice extraction using *OCR* for structured data storage.
 - Implemented *duplicate detection* & *recurring invoice classification*, reducing manual processing efforts.
 
@@ -70,6 +70,16 @@ LLMs excel in natural language understanding but often generate inaccurate respo
 ✔ OCR-Based Data Extraction (Tesseract)  
 ✔ MongoDB Storage & JSON Output  
 ✔ Duplicate & Subscription Invoice Detection  
+
+---
+
+### *Minor Projects*
+1. *Dynamic Energy Market Simulation*
+Engaged in the "EnergyNext" simulation game, showcasing strategic decision-making in energy production, trade, and marketing. Successfully navigated challenges, making critical choices like plant operations influenced by dynamic political impacts. Gained insights into corporate responsibility and market dynamics, applying theoretical knowledge to real-world scenarios. Focused on acquiring customers, strategically supplying energy, and optimizing profitability while ensuring grid stability.
+2. *Intelligent Energy Distribution System for a Residence*
+Model and fine-tune the energy needs of a standard household system to ensure that the entire electricity and heat demand of the district can be fulfilled solely through the utilization of photovoltaic (PV) sources. Achieve this without the necessity of purchasing additional electricity or heat, leveraging the capabilities of myRIO-1900 and LABVIEW Programming for simulation and optimization.
+3. *Exploring Power Plant Site Selection through Eurosat Image Classification: A Deep Learning Project*
+Created a project to classify ten distinct kinds of geographical Images using CNN and then compared it with the VGG-16 model for better accuracy to predict which powerplant is suitable for the particular location.
 
 ---
 
@@ -85,10 +95,13 @@ LLMs excel in natural language understanding but often generate inaccurate respo
 ---
 
 ## Technical Skills  
-- *Programming & Tools*: Python, Docker, GitHub, VS Code, LabVIEW  
-- *AI & DevOps*: Open-source Models, Custom Knowledge Integration, NLP, Deep Learning, LLM Tuning & Deployment, Retrieval-Augmented Generation (RAG), Autonomous Agents, LangChain, LLamaIndex, Streamlit, ElectronJS , LLMOps, CI/CD, Monitoring & Tracing, vLLM, LiteLLM, FastAPI, Flask  
+- *Programming & Tools*: Python, Docker, GitHub, VS Code, LabVIEW, AI-driven energy optimization, Time-series energy data analysis   
+- *AI & DevOps*: Open-source Models, Custom Knowledge Integration, NLP, Deep Learning, LLM Tuning & Deployment, Retrieval-Augmented Generation (RAG), Autonomous Agents, LangChain, LLamaIndex, Streamlit, ElectronJS , LLMOps, CI/CD, Monitoring & Tracing, vLLM, LiteLLM, FastAPI, Flask, Grafana,   
 - *OCR & Document Processing*:  Email Parsing, Document Processing, Data Extraction, Chunking
 - *Database & Cloud*: Vector Databases (FAISS, Pinecone), MongoDB, InfluxDB, SQL, AWS, Azure
+- *IoT*: myRIO-1900, Modbus
+- *Energy Optimization Software*: nPro, Polysun, IDA-ICE, QGIS, Revit
+- *Other Skills*: Microsoft Office, CAD 2D/3D, Jira, Discord, Slack, Confluence
 
 ---
 
