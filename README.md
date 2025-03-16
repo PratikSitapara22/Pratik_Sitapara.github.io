@@ -12,7 +12,7 @@ Welcome to my portfolio! I'm Pratik Sitapara, an Engineer passionate about solvi
 
 ## Work & Projects  
 ### *Master Thesis - Evaluating and Monitoring Retrieval-Augmented Generation (RAG) for Enhanced Performance in Commercial Applications* (Grade: 1.3 | Duration: 6 months) 
-- In this thesis work, I built a conducted comprehensive evaluations of RAG system using information retrieval, reference based and reference-free metric, providing a detailed assessment of both retrieval and generation components. These evaluations offered a holistic view of the system performance, identifying bottlenecks and inefficiencies that could be optimized for improved enterprise applications.
+- In this thesis work, I built a tool to conduct comprehensive evaluations of RAG system using information retrieval, reference based and reference-free metric, providing a detailed assessment of both retrieval and generation components. These evaluations offered a holistic view of the system performance, identifying bottlenecks and inefficiencies that could be optimized for improved enterprise applications.
 - Implemented a real-time monitoring tool using LangSmith, ensuring optimal RAG system performance by addressing issues like latency, response accuracy and tracing response. 
 
 <p align="center">
