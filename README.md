@@ -12,8 +12,8 @@ Welcome to my portfolio! I'm Pratik Sitapara, an Engineer passionate about solvi
 
 ## Work & Projects  
 ### *Master Thesis - Evaluating and Monitoring Retrieval-Augmented Generation (RAG) for Enhanced Performance in Commercial Applications* (Grade: 1.3 | Duration: 6 months) 
--In this thesis work, I built a conducted comprehensive evaluations of RAG system using information retrieval, reference based and reference-free metric, providing a detailed assessment of both retrieval and generation components. These evaluations offered a holistic view of the system performance, identifying bottlenecks and inefficiencies that could be optimized for improved enterprise applications.
--Implemented a real-time monitoring tool using LangSmith, ensuring optimal RAG system performance by addressing issues like latency, response accuracy and tracing response. 
+- In this thesis work, I built a conducted comprehensive evaluations of RAG system using information retrieval, reference based and reference-free metric, providing a detailed assessment of both retrieval and generation components. These evaluations offered a holistic view of the system performance, identifying bottlenecks and inefficiencies that could be optimized for improved enterprise applications.
+- Implemented a real-time monitoring tool using LangSmith, ensuring optimal RAG system performance by addressing issues like latency, response accuracy and tracing response. 
 
 <p align="center">
   <img src="assets/img/EXP-1-MRR.png" width="40%" alt="Metric Comparisons">
@@ -76,13 +76,13 @@ Welcome to my portfolio! I'm Pratik Sitapara, an Engineer passionate about solvi
 
 ## *Minor Projects*
  1. *Dynamic Energy Market Simulation*
--Engaged in the "EnergyNext" simulation game, showcasing strategic decision-making in energy production, trade, and marketing. Successfully navigated challenges, making critical choices like plant operations influenced by dynamic political impacts. Gained insights into corporate responsibility and market dynamics, applying theoretical knowledge to real-world scenarios. Focused on acquiring customers, strategically supplying energy, and optimizing profitability while ensuring grid stability.
+- Engaged in the "EnergyNext" simulation game, showcasing strategic decision-making in energy production, trade, and marketing. Successfully navigated challenges, making critical choices like plant operations influenced by dynamic political impacts. Gained insights into corporate responsibility and market dynamics, applying theoretical knowledge to real-world scenarios. Focused on acquiring customers, strategically supplying energy, and optimizing profitability while ensuring grid stability.
  
  2. *Intelligent Energy Distribution System for a Residence*
--Model and fine-tune the energy needs of a standard household system to ensure that the entire electricity and heat demand of the district can be fulfilled solely through the utilization of photovoltaic (PV) sources. Achieve this without the necessity of purchasing additional electricity or heat, leveraging the capabilities of myRIO-1900 and LABVIEW Programming for simulation and optimization.
+- Model and fine-tune the energy needs of a standard household system to ensure that the entire electricity and heat demand of the district can be fulfilled solely through the utilization of photovoltaic (PV) sources. Achieve this without the necessity of purchasing additional electricity or heat, leveraging the capabilities of myRIO-1900 and LABVIEW Programming for simulation and optimization.
  
  3. *Exploring Power Plant Site Selection through Eurosat Image Classification: A Deep Learning Project*
- -Created a project to classify ten distinct kinds of geographical Images using CNN and compared it with the VGG-16 model for better accuracy to predict which powerplant is suitable for the particular location.
+ - Created a project to classify ten distinct kinds of geographical Images using CNN and compared it with the VGG-16 model for better accuracy to predict which powerplant is suitable for the particular location.
  
  ---
 
