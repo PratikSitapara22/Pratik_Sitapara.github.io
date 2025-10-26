@@ -1,6 +1,8 @@
-Welcome to my portfolio! I'm Pratik Sitapara, an Engineer passionate about solving real-life problems with AI and developing real-world applications. With a strong background in Smart Energy Systems and two years of experience in AI, I have developed skills in Python Programming, IoT, and Generative AI Technologies. I have a deep interest in research work and thrive on solving complex challenges, optimizing performance, and ensuring solutions are efficient, scalable, and impactful. My structured work approach, strong collaboration skills, and commitment to clear documentation enable seamless communication with teams and clients.
+Welcome to my portfolio! I’m Pratik Sitapara, an AI Researcher and Engineer passionate about building intelligent systems that connect Artificial Intelligence, Energy, and Sustainability. I specialize in designing AI-driven frameworks that make technology more efficient, ethical, and impactful. My expertise spans Generative AI, RAG systems, AI Agents, Python development, and IoT, combined with a strong foundation in Smart Energy Systems and Engineering. I enjoy transforming complex, interdisciplinary challenges into practical solutions through research, collaboration, and clear communication.
 
-🚀 I am currently open to new opportunities where I can contribute my knowledge in AI-driven solutions and Energy. Feel free to explore my work and connect—I look forward to collaborating and innovating together!
+Currently, I’m pursuing my PhD at the University of Oldenburg, exploring how Large Language Models (LLMs) can enhance sustainability reporting and responsible innovation. I’m deeply motivated by curiosity, adaptability, and the belief that AI—when designed thoughtfully—can accelerate the global shift toward a sustainable future. 🌍
+
+🚀 I am open to exploring new opportunities where I can contribute my knowledge in AI-driven solutions and sustainability. Feel free to explore my work and connect—I look forward to collaborating and innovating together!
 
 ---
 
@@ -10,7 +12,11 @@ Welcome to my portfolio! I'm Pratik Sitapara, an Engineer passionate about solvi
 
 ---
 
-## Work & Projects  
+## Work & Projects
+### *Research Associate in AI & Sustainability at Carl von Ossietzky University of Oldenburg, Oldenburg, Germany* (05/2025 – Current)
+- Developing AI-driven methodologies using NLP & HCI for sustainability reporting.
+
+
 ### *Master Thesis - Evaluating and Monitoring Retrieval-Augmented Generation (RAG) for Enhanced Performance in Commercial Applications* (Grade: 1.3 | Duration: 6 months) 
 - In this thesis work, I built a tool to conduct comprehensive evaluations of RAG system using information retrieval, reference based and reference-free metric, providing a detailed assessment of both retrieval and generation components. These evaluations offered a holistic view of the system performance, identifying bottlenecks and inefficiencies that could be optimized for improved enterprise applications.
 - Implemented a real-time monitoring tool using LangSmith, ensuring optimal RAG system performance by addressing issues like latency, response accuracy and tracing response. 
