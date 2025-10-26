@@ -13,7 +13,7 @@ Currently, I’m pursuing my PhD at the University of Oldenburg, exploring how L
 ---
 
 ## Work & Projects
-### *Research Associate in AI & Sustainability at Carl von Ossietzky University of Oldenburg, Oldenburg, Germany* (05/2025 – Current)
+### *Research Associate in AI & Sustainability at Carl von Ossietzky University of Oldenburg, Oldenburg, Germany* (05/2025 – Current position)
 - Developing AI-driven methodologies using NLP & HCI for sustainability reporting.
 
 
